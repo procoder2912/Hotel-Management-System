@@ -1,0 +1,7 @@
+1)create database UserLogin
+2)create table addroom
+3)create table customerdetail
+4)create table empdetail
+5)create table empsal
+6)create table userdetails(Database that will have password and username)
+
